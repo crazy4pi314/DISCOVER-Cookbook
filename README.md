@@ -89,6 +89,8 @@ We sincerely appreciate the efforts and input of the many individuals who contri
 
 [Inclusive Practices During Check-In](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md)
 
+[During the Event](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/during_event.md)
+
 ## Other Considerations
 
 **Further reading:**

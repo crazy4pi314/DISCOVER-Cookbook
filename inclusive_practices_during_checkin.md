@@ -24,18 +24,10 @@
 - Ribbons for badges can be useful, e.g. &quot;First-Time Attendee.&quot; 
   - Consider what visual cues would encourage people to engage with one another and go out of their way to be friendly to someone.
 - Consider running a mentoring program that matches experienced attendees with first-timers for networking and to provide a friendly resource to get to know the conference.
-
-#### Social Events
-
-- &quot;First-Time Attendee&quot; lunch/dinner/coffee-break as a welcome and safe place for attendees to ask questions.
-- Consider diversifying the time of day that social events happen.
-  - Not everyone is available (physically or mentally) in the evenings, when social events are typically concentrated.
-- Alcohol Considerations
-  - We recommend the AdaCamp Toolkit&#39;s summary approach to alcohol at events: [https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/](https://adacamp.org/adacamp-toolkit/serving-alcohol-at-social-events/)
   
   ---
 **NEXT SECTION:**
-- You have reached the end of the DISCOVER Cookbook.
+- [During the Event](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/during_event.md)
 
 **PREVIOUS SECTION:**
 - [Event Registration](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/event_registration.md)
