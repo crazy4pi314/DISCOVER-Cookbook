@@ -1,4 +1,9 @@
-### Grants/Scholarships
+---
+layout: page
+title: Grants/Scholarships
+---
+
+**Tags:** <span style="color:red"> Scholarships</span>, <span style="color:red"> Participant Diversity</span>, <span style="color:red">Global South and Developing Countries</span>, <span style="color:red">Newcomers & First-Timers</span>, <span style="color:red"> Location & Venue</span>
 
 **Why funding is important**
 
@@ -16,7 +21,7 @@ Registration vs. Travel &amp; Lodging
     - from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, indigenous, women, persons of color, and/or persons with disabilities
     - and be unable to attend without some financial assistance. (language adapted from [The Linux Foundation](https://www.linuxfoundation.org/event/api-strategy-practice-conference-2017/diversity-scholarship/))
   - Also consider providing support for applicants from developing economies.
-    - You might use the World Bank definitions of low and low-middle income. ([http://bit.ly/1nO82wD](http://bit.ly/1nO82wD))
+    - You might use the [World Bank definitions](http://bit.ly/1nO82wD) of low and low-middle income.
   - Your organizing committee should decide which career stages are eligible: Everyone? Just students and post-docs? Junior faculty/researchers? Unemployed?
   
 - The legal issues of specifically funding underrepresented groups varies by country.
@@ -32,21 +37,22 @@ Registration vs. Travel &amp; Lodging
 - How to attract funding for scholarships?
   - Consider posting an opportunity for attendees or community members to make individual donations in support of travel scholarships.
   - Make corporate sponsor levels specifically tied to travel+lodging and/or registration scholarships. (e.g. [PyData offers Diversity Scholarships as sponsor benefits](https://pydata.org/pdf/sponsor-prospectus.pdf))
-  - Run a crowdfunding campaign to support particular inclusion efforts (e.g. childcare expenses — Open Source Bridge [did this](https://www.generosity.com/community-fundraising/support-open-source-bridge-2016/).)
+  - Run a crowdfunding campaign to support particular inclusion efforts (e.g. childcare expenses — Open Source Bridge [did this](http://opensourcebridge.org/blog/2016/05/childcare-and-scholarships/).)
   - Dedicate surpluses from previous events to funding fellowships.
 - Possible Funding Sources (needs more research)
   - [Python Software Foundation](http://legacy.python.org/psf/grants/)
-  - NumFOCUS Foundation
-    - Offers grants to organizing committees for diversity scholarships [https://www.numfocus.org/programs/grants-sponsored-events/](https://www.numfocus.org/programs/grants-sponsored-events/)
+  - [NumFOCUS Foundation](https://www.numfocus.org/programs/grants-sponsored-events/)
+    - Offers grants to organizing committees for diversity scholarships
   - [PyLadies](http://www.pyladies.com/)
     - Gives scholarships to PyCon participants
 
 **Further reading:**
 
-- Travel grants toolkit [https://adacamp.org/adacamp-toolkit/travel-grants/](https://adacamp.org/adacamp-toolkit/travel-grants/)
+- [Travel grants toolkit](https://adacamp.org/adacamp-toolkit/travel-grants/)
+
 ---
 **NEXT SECTION:**
-- [Participant Selection](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/participant-selection.md)
+- [Participant Selection](09_participant_selection.md)
 
 **PREVIOUS SECTION:**
-- [Code of Conduct (CoC)](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/code-of-conduct.md)
+- [Code of Conduct (CoC)](07_code_of_conduct.md)

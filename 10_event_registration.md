@@ -1,40 +1,53 @@
-### Event Registration
+---
+layout: page
+title: Event Registration
+---
 
 What to ask on your registration form (and what not to ask)
 
-#### Preparing to meet accessibility needs
+## Preparing to meet accessibility needs
+
+**Tags**: <span style="color:red"> Registration</span>, <span style="color:red">People with Disabilities</span> 
 
 - Outline any accessibility services you plan to provide on the registration form. Then:
 - 🍎 Ask registrants if they have any additional accessibility needs, and if so, provide instructions on how to make the request.
   - &quot;Do you need any special accommodations to help make your time at the conference comfortable and productive? (e.g. accessibility considerations). Please email [contact@myconference.com](mailto:contact@myconference.com) and include the details of your request.&quot;
 - Provide any deadlines for requests (it can be difficult to arrange sign-language translation at the last minute, for example).
 
-#### Supporting Attendance through Grants
+## Supporting Attendance through Grants
+
+**Tags**: <span style="color:red"> Registration</span>, <span style="color:red"> Scholarships</span>
 
 - Ask about any grant or scholarship opportunities, e.g. for childcare, scholarships for underrepresented folks
   - &quot;Would you be interested in a grant to cover childcare or on-site childcare services? (yes/no) Which option would be most beneficial for you?&quot;
 
-#### Dietary Restrictions
+## Dietary Restrictions
+**Tags:** <span style="color:red"> People with Allergies</span>, <span style="color:red"> Catering</span>, <span style="color:red"> Dietary Restrictions</span>, <span style="color:red"> Registration</span>
 
 - 🍎 Some people have severe allergies or dietary restrictions that can affect their ability to attend the conference.
 - Use an open text box to ask about dietary restrictions. (Forcing registrants to choose from a pre-defined list might miss important allergies or restrictions.)
   - &quot;Do you have any dietary restrictions we should be aware of? (e.g. allergies)&quot;
 
-#### Photo Policy
+## Photo Policy
+
+**Tags:** <span style="color:red"> Registration</span>, <span style="color:red"> Giving Participants Room to Be Who They Are</span>
 
 - 🍎 If you will have a photographer at your event, include information for attendees explaining that they may be photographed and how to opt out.
-  - (see lanyard/photography explanation under [Inclusive Practices](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md))
+  - (see lanyard/photography explanation under [Inclusive Practices](11_inclusive_practices_during_checkin.md))
 
 
 **Further reading:**
 
-- Geek Feminism Photography [http://geekfeminism.wikia.com/wiki/Photography](http://geekfeminism.wikia.com/wiki/Photography)
+- [Geek Feminism Photographyy](http://geekfeminism.wikia.com/wiki/Photography)
 
-#### Code of Conduct
+## Code of Conduct
+**Tags:** <span style="color:red"> Code of Conduct </span>
 
 - 🍎 Show the text of the Code of Conduct and a required check-box that the registrant has read it and agrees to abide by it.
 
-#### T-Shirts
+## T-Shirts
+
+**Tags:** <span style="color:red"> Unconscious and Implicit Bias </span>
 
 If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 - Provide shirt sizing information with the registration form where you ask for shirt size. (Provide a wide range of sizes, including plus-size.)
@@ -42,10 +55,12 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
 
 **Further reading:**
 
-- Geek Feminism T-Shirts [http://geekfeminism.wikia.com/wiki/T-shirts](http://geekfeminism.wikia.com/wiki/T-shirts)
-- Unisex Swag Shirts Are Harming Your Community http://cczona.com/unisex-swag-shirts-are-harming-your-community/
+- [Geek Feminism T-Shirts](http://geekfeminism.wikia.com/wiki/T-shirts)
+- [Unisex Swag Shirts Are Harming Your Community](http://cczona.com/unisex-swag-shirts-are-harming-your-community/)
 
-#### Demographic Info
+## Demographic Info
+
+**Tags:** <span style="color:red"> Unconscious and Implicit Bias </span>, <span style="color:red"> Embracing Diverse Voices and Experiences</span>, <span style="color:red"> Stereotyping</span>, <span style="color:red"> Giving Participants Room to Be Who They Are </span>
 
 - **Why do you need it?**
   - We recommend you do not ask for information just &quot;out of curiosity&quot; but rather that there are **planned actions you will take depending on the results** of your demographic question(s).
@@ -69,12 +84,12 @@ If you plan to offer t-shirts, consider offering more than one cut/fit of shirt.
          
 **Further reading:**
 
-- Guiding principles for handling gender on forms [http://43epnd.axshare.com/gender.html](http://43epnd.axshare.com/gender.html)
-- A Word on Monitoring https://www.cheryl-morgan.com/?p=24245
+- [Guiding principles for handling gender on forms](http://43epnd.axshare.com/gender.html)
+- [A Word on Monitoring](https://www.cheryl-morgan.com/?p=24245)
 
 ---
 **NEXT SECTION:**
-- [Inclusive Practices During Check-In](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/inclusive_practices_during_checkin.md)
+- [Inclusive Practices During Check-In](11_inclusive_practices_during_checkin.md)
 
 **PREVIOUS SECTION:**
-- [Participant Selection](https://github.com/numfocus/DISCOVER-Cookbook/blob/master/participant-selection.md)
+- [Participant Selection](09_participant_selection.md)
