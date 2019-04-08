@@ -32,6 +32,8 @@ title: Inclusive practices during check-in
 - Ribbons for badges can be useful, e.g. &quot;First-Time Attendee.&quot; 
   - Consider what visual cues would encourage people to engage with one another and go out of their way to be friendly to someone.
 - Consider running a mentoring program that matches experienced attendees with first-timers for networking and to provide a friendly resource to get to know the conference.
+- A difficult experience for Newcomers & First-Timers can be trying to join small group conversations. One way to get everyone who wants to be involved involved in conversations talking is to employ the 'Pac-man Rule' [http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/](http://ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/). In short, if participants make a concerted effort to leave open spaces in conversation groups it can greatly improve the overall participation of attendees in discussions. Demonstrating this behavior/interaction at the beginning of a conference to all attendees, or with attending event staff can help ensure Newcomers & First-Timers feel welcome and included.
+
 
 ## Social Events
 **Tags:** <span style="color:red">Social Events</span>, <span style="color:red"> Newcomers & First-Timers</span>
